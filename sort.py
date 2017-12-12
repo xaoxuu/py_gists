@@ -1,4 +1,3 @@
-
 def sort(array):
     for index in range(1, len(array)):
         value = array[index]
